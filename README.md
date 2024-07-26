@@ -6,7 +6,7 @@ The AstimPay Checkout module allows you to effortlessly integrate payment soluti
 
 To install the AstimPay Checkout module, follow these steps:
 
-1. Download [AstimPay.zip](https://github.com/astimpay/WHMCS/releases/download/v1.0.0/AstimPay.zip) file from the **Release** section of this repository.
+1. Download [AstimPay.zip](https://github.com/AstimPay/WHMCS/releases/download/v1.0.0/AstimPay.zip) file from the **Release** section of this repository.
 
 2. Upload the `AstimPay.zip` file to your WHMCS installation.
 
