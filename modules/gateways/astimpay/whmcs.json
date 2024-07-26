@@ -1,0 +1,30 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-gateways",
+  "name": "astimpay",
+  "license": "MIT",
+  "category": "payments",
+  "description": {
+    "name": "AstimPay",
+    "tagline": "Simplify Your Payment Management",
+    "long": "AstimPay offers a range of payment automation solutions for small entrepreneurs in Bangladesh.",
+    "features": [
+      "Checkout with AstimPay for a faster checkout & payment experience",
+      "Additional fees",
+      "WHMCS 8 Support"
+    ]
+  },
+  "logo": {
+    "filename": "logo.png"
+  },
+  "support": {
+    "homepage": "https:\/\/www.astimpay.com\/",
+    "docs_url": "https:\/\/astimpay.readme.io\/"
+  },
+  "authors": [
+    {
+      "name": "AstimPay Team",
+      "homepage": "https:\/\/astimpay.com\/"
+    }
+  ]
+}
